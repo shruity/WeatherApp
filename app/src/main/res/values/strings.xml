@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="weatherimg">weatherImg</string>
+    <string name="sunrise">Sunrise:&#160;</string>
+    <string name="sunset">Sunset:&#160;</string>
+    <string name="splashscreenimage">splashScreenImage</string>
+</resources>
